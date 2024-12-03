@@ -19,7 +19,7 @@
   <packaging>jar</packaging>
 
   <!--  This is optional, used for any local names for the project. Can be "softer" than the artifactId -->
-  <name>validator</name>
+  <name>validatorB</name>
 
   <!--  The website for the project -->
   <url>http://validator.com.yrgo</url>
